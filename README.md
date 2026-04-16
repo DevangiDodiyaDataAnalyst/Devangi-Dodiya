@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[BANNER_IMAGE_HERE](https://github.com/DevangiDodiyaDataAnalyst/Devangi-Dodiya/blob/main/DevangiDodiya_Github.png)" alt="Devangi Dodiya – Data Analyst | Business Insights" />
+  <img src="https://github.com/DevangiDodiyaDataAnalyst/Devangi-Dodiya/blob/9edcb8372b6de23d6540189b26fe92f6ffede25f/DevangiDodiya_Github.png" alt="Devangi Dodiya – Data Analyst | Business Insights" />
 </p>
 
 <h1 align="center">Hi, I'm Devangi Dodiya 👋</h1>

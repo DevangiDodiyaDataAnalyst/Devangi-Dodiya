@@ -91,12 +91,12 @@ Analyzed environmental and temporal factors impacting species health and sustain
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DevangiDodiyaDataAnalyst&theme=buefy" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DevangiDodiyaDataAnalyst&show_icons=true&theme=buefy" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DevangiDodiya-DA&theme=buefy" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DevangiDodiya-DA&show_icons=true&theme=buefy" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevangiDodiyaDataAnalyst&layout=compact&theme=buefy" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevangiDodiya-DA&layout=compact&theme=buefy" />
 </p>
 
 ---
